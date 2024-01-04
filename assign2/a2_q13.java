@@ -5,7 +5,6 @@ public class a2_q13
 	{
 		try(Scanner scn = new Scanner(System.in)){;
 		int n = scn.nextInt();
-		
 		for (int i=0;i<n;i++)
 		{
 			int k = 1;
