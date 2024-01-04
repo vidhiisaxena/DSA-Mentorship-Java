@@ -1,4 +1,4 @@
-import java.util*;
+import java.util.scanner;
 public class A2Q6{
 	public static void main(String[]args)
 	{
