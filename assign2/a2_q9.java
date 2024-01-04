@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class A2Q9
+public class a2_q9
 {
 	public static void main(String[]args)
 	{
